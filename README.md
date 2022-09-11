@@ -5,3 +5,4 @@
 4. Protein-protein-interaction-feature.py is used to calculate protein and protein interaction feature.   
 5. Expression-feature.txt is the feature file containing expression values of 1513 essential genes and 9162 non-essential genes.   
 6. GO-feature.txt is the feature file containing 130 GO annotations features of genes. 
+7. Supplementary Table 1 is the file containing the HGE scores of 18859 genes listed in the first sheet of this file, while the second sheet contains the distribution ratios of the HGE scores of specific ranges.
